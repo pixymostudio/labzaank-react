@@ -26,10 +26,10 @@ export default function TodayWord() {
 
         {/* ===== EXACT HTML STYLE SHER ===== */}
         <div className="today-poetry">
-          <p>
-            محبت کے لیے دل کا ہونا شرط نہیں  
+         <p>
+            چہ وتیگاں بے اوست ءُ چہ درامداں چے گِلگ  
             <br />
-            یہ وہ ہنر ہے جو ہر کسی کو نہیں آتا
+            واریں زندمانی ءِ زَنزَروکیں جاراں من
           </p>
         </div>
 
